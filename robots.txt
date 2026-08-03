@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mushfigy.github.io/knowledge-learning-systems-portfolio/sitemap.xml

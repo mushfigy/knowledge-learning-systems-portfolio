@@ -1,0 +1,5 @@
+FIGURE CAPTION
+The reconstructed current-state workflow connects dispersed learning inputs, variable delivery and informal judgment, leaving no consistent basis for verifying independent-work readiness.
+
+ALT TEXT
+A three-layer diagnostic map shows a reconstructed eight-stage onboarding workflow from identifying a training need to an informal readiness decision. Each stage includes a responsible stakeholder and control gap. Five root causes sit beneath the workflow: fragmented learning content, undefined progression standard, trainer-dependent delivery, readiness without standard evidence and uncontrolled content lifecycle. Two rework loops return engineers from initial work to troubleshooting or further practice. Four consequence bands show escalation from learner uncertainty to repeated trainer and specialist support, unclear management decisions and limited organizational capability visibility. The final diagnosis states that independent-work readiness cannot be verified consistently.

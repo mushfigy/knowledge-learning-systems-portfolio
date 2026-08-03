@@ -1,0 +1,22 @@
+{
+  "name": "From First Use to Independent Performance",
+  "short_name": "Independent Performance",
+  "description": "Recruiter-focused consulting portfolio for technical onboarding, competency architecture, assessment design and controlled learning content.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F1E8",
+  "theme_color": "#1D4938",
+  "icons": [
+    {
+      "src": "favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
