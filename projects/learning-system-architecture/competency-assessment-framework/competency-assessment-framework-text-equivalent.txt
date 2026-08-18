@@ -1,0 +1,204 @@
+TITLE
+Competency Assessment Framework for Independent Standard Work
+
+BUSINESS QUESTION
+How should competence be assessed so that independent standard work can be approved consistently using observable evidence rather than informal judgment?
+
+PURPOSE
+Define how representative performance is observed, evidenced, reviewed and converted into consistent competency and readiness decisions.
+
+SCOPE
+STANDARD TECHNICAL WORK ONLY
+
+ASSESSMENT PRINCIPLES
+
+Evidence-based
+Decisions use recorded evidence, not confidence or attendance.
+
+Representative performance
+Activities reflect the standard work the learner is expected to perform.
+
+Observable behaviour
+Behaviours must be seen, reviewed or otherwise verified.
+
+Repeatability
+Evidence must show that required performance can be reproduced.
+
+Reliability
+Comparable evidence should support comparable conclusions.
+
+Consistency
+Equivalent cases use equivalent expectations and decision rules.
+
+Validity
+Each method assesses the capability it claims to measure.
+
+Proportionality
+Evidence burden matches task complexity, uncertainty and risk.
+
+Standardization
+Common criteria, records and decision rules control assessment.
+
+Transparency
+Expectations, evidence and decisions are understandable to relevant stakeholders.
+
+Authenticity
+Evidence must reflect the learner's own performance and decisions.
+
+Development and judgment separated
+Support is recorded and does not inflate the demonstrated level.
+
+ASSESSMENT METHODS
+
+Methods are combined according to the competency domain, performance level and evidence required.
+
+Direct observation
+Purpose: Observe sequence, decisions, checks, support and escalation.
+Primary use: Workflow execution · Judgment · Task ownership
+
+Representative work task
+Purpose: Demonstrate integrated performance on realistic standard work.
+Primary use: All six competency domains
+
+Technical discussion
+Purpose: Confirm knowledge, rationale, boundaries and result meaning.
+Primary use: Knowledge · Judgment · Interpretation and quality
+
+Documentation review
+Purpose: Check inputs, assumptions, decisions, outputs and traceability.
+Primary use: Documentation and traceability
+
+Result-interpretation review
+Purpose: Explain principal results and identify evident anomalies.
+Primary use: Interpretation and quality · Judgment
+
+Quality-check review
+Purpose: Verify required checks and response to findings.
+Primary use: Interpretation and quality · Workflow execution
+
+Scenario discussion
+Purpose: Examine response to uncertainty, abnormal results and scope boundaries.
+Primary use: Judgment · Task ownership
+
+Decision explanation
+Purpose: Distinguish deliberate choices from imitation or guessing.
+Primary use: Knowledge · Judgment
+
+Escalation discussion
+Purpose: Test recognition and communication of genuine exceptions.
+Primary use: Judgment · Task ownership
+
+Support-history review
+Purpose: Distinguish guided, limited-support and independent performance.
+Primary use: All performance-based domains
+
+ASSESSMENT EVIDENCE
+
+No single evidence type establishes readiness.
+
+Knowledge evidence
+Explanations, sequencing, terminology and required-check recognition.
+Examples: Workflow explanation · terminology use · required-check identification
+
+Performance evidence
+Observed execution and completed representative standard work.
+Examples: Observed task · completed output · corrected workflow steps
+
+Judgment evidence
+Decision rationale, uncertainty recognition and scope-boundary choices.
+Examples: Decision record · identified uncertainty · justified escalation
+
+Interpretation and quality evidence
+Result explanation, required checks and evident anomaly recognition.
+Examples: Result interpretation · quality-check record · identified anomaly
+
+Documentation evidence
+Inputs, assumptions, decisions, outputs and review history.
+Examples: Work record · file and version status · review response
+
+Autonomy and escalation evidence
+Support required, routine issues resolved and genuine exceptions escalated.
+Examples: Support record · task without routine intervention · correct escalation
+Sub-elements: Independence · Support · Escalation
+
+ACCEPTABLE EVIDENCE MUST BE
+
+Representative
+Current
+Observable
+Repeatable
+Traceable
+Authentic
+Sufficient
+Relevant
+Consistent
+
+ASSESSMENT WORKFLOW
+
+1. Assessment planned
+2. Representative task assigned
+3. Performance observed
+4. Evidence collected
+5. Evidence reviewed
+6. Competency levels assigned
+7. Development needs identified
+8. Readiness decision made
+9. Decision recorded and communicated
+
+REASSESSMENT LOOP
+Targeted development → additional evidence → reassessment
+
+DECISION LOGIC
+
+Competency level decision
+Assign the highest level fully supported by evidence in each domain.
+
+Development decision
+Identify the unmet behaviour, missing evidence and reassessment need.
+
+Readiness decision
+Approve only when integrated Level 4 performance is demonstrated across all required domains.
+
+Insufficient or conflicting evidence → Not yet demonstrated or further review required.
+
+Judgment, quality control, documentation and escalation barriers cannot be averaged away.
+
+Exact scoring and weighting belong to the later assessment system.
+
+ASSESSMENT RESPONSIBILITIES
+
+New Engineer
+Would complete representative work, explain decisions and disclose support received.
+
+Technical Trainer
+Would observe workflow performance, record support and provide structured feedback.
+
+Senior Specialist
+Would validate technical judgment, interpretation and scope-boundary decisions.
+
+Engineering Manager
+Would define standard-work scope and make the readiness decision from available evidence.
+
+Learning or Competency Lead
+Would support consistent evidence review and assessor interpretation where involved.
+
+Project-Delivery Manager
+Would use the approved readiness status when allocating standard work.
+
+CURRENT-STATE DIAGNOSIS
+Independent-work readiness cannot be verified consistently.
+
+RECONSTRUCTED ASSESSMENT LOGIC
+Observable evidence, structured review and integrated domain decisions would provide a consistent basis for approving independent standard work.
+
+QUALIFIER
+Reconstructed framework logic; not a claim of historical implementation.
+
+FIGURE CAPTION
+A structured competency-assessment framework combines assessment principles, complementary methods, six evidence categories, evidence-quality controls, a nine-stage workflow and integrated decision logic to support consistent approval of independent standard technical work.
+
+DISCLOSURE
+Anonymized reconstruction based on professional experience. All proprietary names, data, interfaces and technical details have been replaced.
+
+ALT TEXT
+A tall systems infographic titled “Competency Assessment Framework for Independent Standard Work” explains how observable evidence would replace informal readiness judgment. The header states that the scope is standard technical work only and asks how competence should be assessed so that independent work can be approved consistently. A twelve-item assessment-principles panel covers evidence-based assessment, representative performance, observable behaviour, repeatability, reliability, consistency, validity, proportionality, standardization, transparency, authenticity and separation of development support from assessment judgment. A ten-method panel includes direct observation, representative work tasks, technical discussion, documentation review, result-interpretation review, quality-check review, scenario discussion, decision explanation, escalation discussion and support-history review. A six-section evidence band retains the categories Knowledge evidence, Performance evidence, Judgment evidence, Interpretation and quality evidence, Documentation evidence, and Autonomy and escalation evidence; independence, support and escalation appear only as sub-elements of the final category. A separate evidence-quality panel lists representative, current, observable, repeatable, traceable, authentic, sufficient, relevant and consistent. A two-row nine-stage workflow moves from assessment planning through task assignment, observation, evidence collection and review, competency-level assignment, development decisions, readiness decisions and recorded communication. A reassessment loop returns development needs to a representative task through targeted development and additional evidence. A decision panel separates competency-level, development and readiness decisions and states that critical weaknesses cannot be averaged away. Six stakeholder sections describe reconstructed responsibilities for the New Engineer, Technical Trainer, Senior Specialist, Engineering Manager, Learning or Competency Lead and Project-Delivery Manager. The final split panel contrasts the current-state diagnosis, “Independent-work readiness cannot be verified consistently,” with reconstructed assessment logic based on observable evidence, structured review and integrated domain decisions.

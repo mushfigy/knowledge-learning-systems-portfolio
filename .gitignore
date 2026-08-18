@@ -1,0 +1,49 @@
+# Operating-system metadata
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor and workspace metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary, backup and log files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.part
+*.log
+~$*
+.cache/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local font binaries
+*.ttf
+*.otf
+*.woff
+*.woff2
+
+# Local QA, source-authority and staging material
+/internal/
+/qa/
+/source-baseline/
+/source-authorities/
+/site-source/
+/repo-working/
+*-staging/
+
+# Non-public document and package formats
+*.docx
+*.pdf
+*.zip

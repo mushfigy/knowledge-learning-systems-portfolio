@@ -1,0 +1,107 @@
+PROJECT TITLE
+Why Readiness Cannot Be Verified
+
+BUSINESS CONTEXT
+A multinational technical organization uses specialist simulation software, but onboarding relies on dispersed materials, variable training and informal judgment.
+
+CURRENT-STATE WORKFLOW
+
+01 — Training Need Identified
+Engineering Manager
+Gap: Undefined target
+
+02 — Documents Collected
+New Engineer
+Gap: No authoritative source
+
+03 — Informal Orientation
+Technical Trainer / Senior Specialist
+Gap: Variable guidance
+
+04 — Trainer Demonstration
+Technical Trainer
+Gap: Variable coverage
+
+05 — Individual Practice
+New Engineer
+Gap: No common completion standard
+
+06 — Questions and Troubleshooting
+Technical Trainer / Senior Specialist
+Gap: Repeated support
+
+07 — First Independent Assignment
+New Engineer
+Gap: Gaps surface in work
+
+08 — Informal Readiness Decision
+Engineering Manager
+Gap: Undocumented judgment
+
+REWORK LOOPS
+Clarification and correction
+Additional practice or supervision
+
+ROOT CAUSES
+
+Fragmented learning content
+Materials are not organized by stage or task.
+
+Undefined progression standard
+No defined route connects orientation, practice and independent work.
+
+Trainer-dependent delivery
+Coverage, feedback and support depend on the individual trainer.
+
+Readiness without standard evidence
+Performance cannot be compared against one evidence threshold.
+
+Uncontrolled content lifecycle
+Ownership, approval and updating are not controlled.
+
+RELATIONSHIP CAPTION
+Uncontrolled maintenance allows fragmented guidance to remain active.
+
+CONSEQUENCE ESCALATION
+
+Learner
+New Engineer
+Uncertain priorities
+Uneven coverage
+Inconsistent methods
+Continued dependency
+
+Trainer and Senior Specialist
+Technical Trainer · Senior Specialist
+Repeated explanations
+Variable coverage
+Reactive intervention
+Difficult gap diagnosis
+
+Management and Delivery
+Engineering Manager · Learning or Competency Lead · Project-Delivery Manager
+Unclear readiness
+Non-comparable progress
+Uncertain supervision
+Variable documentation
+
+Organizational Capability
+Learners, trainers, specialists and decision-makers
+Individual dependency
+Weak knowledge continuity
+Variable competency decisions
+Limited capability visibility
+
+ORGANIZATIONAL DIAGNOSIS
+Independent-work readiness cannot be verified consistently.
+
+The organization lacks a controlled connection between learning content, progression, performance evidence and readiness decisions.
+
+FIGURE CAPTION
+The reconstructed current-state workflow connects dispersed learning inputs, variable delivery and informal judgment, leaving no consistent basis for verifying independent-work readiness.
+
+DISCLOSURE
+Anonymized reconstruction based on professional experience. All proprietary names, data, interfaces and technical details have been replaced.
+
+ALT TEXT
+A three-layer diagnostic map shows a reconstructed eight-stage onboarding workflow from identifying a training need to an informal readiness decision. Each stage includes a responsible stakeholder and control gap. Five root causes sit beneath the workflow: fragmented learning content, undefined progression standard, trainer-dependent delivery, readiness without standard evidence and uncontrolled content lifecycle. Two rework loops return engineers from initial work to troubleshooting or further practice. Four consequence bands show escalation from learner uncertainty to repeated trainer and specialist support, unclear management decisions and limited organizational capability visibility. The final diagnosis states that independent-work readiness cannot be verified consistently.
